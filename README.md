@@ -13,9 +13,7 @@ QRCode View 1                                         |  QRCode View 2 |    QRCo
 :--------------------------------------------------------:|:------------------------------------:|:------------------------------------:
 ![](https://github.com/AndroidCodility/QRCode-ScannerPicture/blob/master/design/permission.png?raw=true)  |  ![](https://github.com/AndroidCodility/QRCode-ScannerPicture/blob/master/design/scan.png?raw=true) |  ![](https://github.com/AndroidCodility/QRCode-ScannerPicture/blob/master/design/text.png?raw=true)
 
- QRCode View 4 | 
- :--------------------------------------------------------:
- ![](https://github.com/AndroidCodility/QRCode-ScannerPicture/blob/master/design/url.png?raw=true)
+ QRCode View 4 | Play Video
+ :--------------------------------------------------------:|:-----:|
+ ![](https://github.com/AndroidCodility/QRCode-ScannerPicture/blob/master/design/url.png?raw=true) | [![](http://www.getyoutubevideothumbnail.com/Images/Icons/26.png)](https://youtu.be/4-CCxhB3WKs "Click here to watch")
  
-# Play Video
-[![](http://www.getyoutubevideothumbnail.com/Images/Icons/26.png)](https://youtu.be/4-CCxhB3WKs "Click here to watch")
