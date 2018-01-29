@@ -17,8 +17,7 @@ QRCode View 1                                         |  QRCode View 2 |    QRCo
  :--------------------------------------------------------:
  ![](https://github.com/AndroidCodility/QRCode-ScannerPicture/blob/master/design/url.png?raw=true) | 
  
- Play Video |
- :-----:
+# Play Video
  [![](https://github.com/AndroidCodility/QRCode-ScannerPicture/blob/master/design/qrcode_vid.png?raw=true)](https://youtu.be/4-CCxhB3WKs "Click here to watch")
  
 # Like Facebook Page
